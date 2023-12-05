@@ -1,4 +1,4 @@
-# ShhorAI - Content Moderation API
+# ShhorAI - Content Moderation API in Hinglish
 
 ## Overview
 
@@ -6,7 +6,7 @@ Welcome to ShhorAI, the premier SaaS API for content moderation, specially tailo
 
 ## Key Features
 
-- **Multilingual Support**: ShhorAI is designed to handle code-mixed language, a common occurrence in India where English and native languages blend.
+- **Hinglish Support**: ShhorAI is designed to handle code-mixed language, a common occurrence in India where English and native languages blend.
 - **Hate Speech Detection**: The API detects and blurs offensive content, promoting a healthy online environment.
 - **Real-time Alerts**: Companies receive real-time alerts, enabling them to make informed decisions about content management.
 - **Inclusivity and Safety**: ShhorAI is committed to inclusivity and community safety, making it an indispensable asset for businesses aiming to foster respectful and engaging online spaces.
